@@ -65,13 +65,13 @@ span {
 .top-cloud {
   position: absolute;
   top: 50px;
-  right: 300px;
+  right: 250px;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 300px;
-  bottom: 300px;
+  bottom: 250px;
 }
 
 .dp {
